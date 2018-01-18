@@ -106,3 +106,5 @@ ggplot(data.combined[1:891,], aes(x = title,fill=Survived)) +
 #Facetwrap på Pclass är kolumnerna "1,2,3" med vita streck emellan
 
 #The graphs basically show that women and kids were prioritized
+
+#TESTAR LÄGGA TILL DENNA RAD
